@@ -1,2 +1,2 @@
-# new -project
-this project is created from local syatem
+# spotify-clone interface
+this project is created from local syatem.
